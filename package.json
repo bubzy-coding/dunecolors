@@ -4,7 +4,7 @@
   "description": "\"# dunecolors\"",
   "main": "colourbot.js",
   "scripts": {
-    "start": "colourbot.js"
+    "start": "node colourbot.js"
   },
   "keywords": [],
   "author": "",
