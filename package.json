@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "\"# dunecolors\"",
   "main": "colourbot.js",
+  "type": "module",
   "scripts": {
     "start": "node colourbot.js"
   },
